@@ -4,3 +4,4 @@ I like to play Magic Card.
 Git has a mutable index called stage.
 
 Test dev1.
+Test dev2.
